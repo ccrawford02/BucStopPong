@@ -1,0 +1,18 @@
+Controls: 
+
+Left and right arrow keys
+
+How to play:
+
+The player is the bottom paddle, the computer is the top paddle.
+
+The game will start by launching a ball at the player. The player will move
+their paddle with the left and right arrow keys, attempting to intercept the
+ball before it hits the bottom boundary. 
+
+If the player touches the ball with their paddle, it will bounce back towards 
+to the computer's side of the screen. The computer will then attempt to do the 
+same. This will continue until the ball hits the top or bottom of the screen, 
+scoring a point for the opposing side. 
+
+Most points in 3 minutes wins.
