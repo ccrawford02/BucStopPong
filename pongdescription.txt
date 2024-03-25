@@ -1,0 +1,6 @@
+Description:
+
+Pong is a game that pits a player against a computer opponent. Each
+side bounces a ball back and forth, much like tennis, in an attempt
+to get the ball past the opposing paddle. Each time this happens, a
+point is scored.
